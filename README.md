@@ -1,4 +1,4 @@
-![Header](https://github.com/oleksiibudkov/oleksiibudkov/blob/main/assets/logo.jpg)
+![Header](https://github.com/oleksiibudkov/oleksiibudkov/blob/main/assets/logo.png)
 ## I'm a QA Engineer. 
 ## My CV
 [Link to my CV]
