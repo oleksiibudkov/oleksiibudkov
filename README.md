@@ -21,10 +21,10 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Checklists](https://github.com/oleksiibudkov/Checklist)
+- [Test-Suites and Test-Cases](https://github.com/oleksiibudkov/Test-cases)
+- [Bug-Reports](https://github.com/oleksiibudkov/Bug-reports)
+- [SQL Queries](https://github.com/oleksiibudkov/SQL)
 - [Postman Collections](https://github.com/oleksiibudkov/Postman)
 
 ### Follow Me
