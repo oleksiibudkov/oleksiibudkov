@@ -3,8 +3,6 @@
 ## My CV
 [Link to my CV]
 
-## Latest Youtube Videos
-
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
