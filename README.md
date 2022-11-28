@@ -1,7 +1,7 @@
 ![Header](https://github.com/oleksiibudkov/oleksiibudkov/blob/main/assets/logo.png)
 ## I'm a QA Engineer. 
 ## My CV
-[https://docs.google.com/document/d/18w9RODNDB_-EbPsiioX-ZIwSCPbJ9JGHY7EV7OmjX8w/editLink to my CV]
+[Link to my CV] https://docs.google.com/document/d/18w9RODNDB_-EbPsiioX-ZIwSCPbJ9JGHY7EV7OmjX8w/edit
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
